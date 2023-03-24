@@ -2,9 +2,19 @@
 <h1 align="center">Hi 👋, I'm Isaac Appiah Donkor</h1>
 <h3 align="center">A passionate Software Tester and Cybersecurity Professional.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adisaac&label=Profile%20views&color=0e75b6&style=flat" alt="adisaac" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adisaac" alt="adisaac" /></a> </p>
+
 - 🌱 I’m currently learning **Software Testing (Manual)**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ADIsaac?tab=repositories](https://github.com/ADIsaac?tab=repositories)
+
 - 📫 How to reach me **appiahdonkori@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
