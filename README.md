@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **appiahdonkori@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+Blogs posts
+<https://medium.com/@appiahdonkorisaac/blockchain-scalability-249d456312da>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
