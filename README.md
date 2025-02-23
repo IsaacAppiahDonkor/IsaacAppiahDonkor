@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaacappiahdonkor" alt="isaacappiahdonkor" /></a> </p>
 
-- 🌱 I’m currently learning **Software Testing (Manual)**
+- 🌱 I’m currently learning **Web3 Research**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IsaacAppiahDonkor?tab=repositories](https://github.com/IsaacAppiahDonkor?tab=repositories)
 
