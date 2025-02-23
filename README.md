@@ -14,7 +14,7 @@
 
 Blogs posts
 <https://medium.com/@appiahdonkorisaac/blockchain-scalability-249d456312da>
-<!-- BLOG-POST-LIST:END -->
+<https://www.linkedin.com/posts/appiahdonkorisaac_blockchain-cross-chain-interoperability-activity-7297936032631521280-a95A?utm_source=share&utm_medium=member_ios&rcm=ACoAABbcz7MBwYdND7Gvb2_6TAEgNX4B6zv3nWs>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
