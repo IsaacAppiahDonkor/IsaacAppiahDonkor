@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web3 Research**
 
-- 👨‍💻 All of my projects are available at <--![https://github.com/IsaacAppiahDonkor?tab=repositories](https://github.com/IsaacAppiahDonkor?tab=repositories)--!>
+- 👨‍💻 All of my projects are available at <--!https://github.com/IsaacAppiahDonkor?tab=repositories](https://github.com/IsaacAppiahDonkor?tab=repositories--!>
 
 - 📫 How to reach me **appiahdonkori@gmail.com**
 
