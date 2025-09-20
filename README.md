@@ -1,6 +1,6 @@
 # Isaac-Appiah-Donkor
 <h1 align="center">Hi 👋, I'm Isaac Appiah Donkor</h1>
-<h3 align="center">A passionate Web3 Researcher and Cybersecurity Professional.</h3>
+<h3 align="center">A passionate Web3 Researcher , Architect , Developer[Smart Contracts(Solidity,Vyper/Python)] , Security(Smart Contract,Web3 Wallet) and Cybersecurity Professional.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacappiahdonkor&label=Profile%20views&color=0e75b6&style=flat" alt="isaacappiahdonkor" /> </p>
 
