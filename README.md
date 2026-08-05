@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning.
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available here.
 
 - 📫 How to reach me **appiahdonkori@gmail.com**
 
